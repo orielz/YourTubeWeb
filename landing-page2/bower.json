@@ -1,0 +1,12 @@
+{
+  "name": "landing-page2",
+  "version": "0.0.0",
+  "homepage": "https://github.com/orielz/YourTubeWeb",
+  "authors": [
+    "orielz <orielux@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "font-awesome": "~4.3.0"
+  }
+}
