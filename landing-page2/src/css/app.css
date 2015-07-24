@@ -1,0 +1,202 @@
+@media all and (min-width: 960px) {
+  body {
+    font-size: 12px; } }
+@media all and (max-width: 959px) and (min-width: 600px) {
+  body {
+    font-size: 10px; } }
+@media all and (max-width: 599px) and (min-width: 320px) {
+  body {
+    font-size: 8px; } }
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%; }
+  html body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Roboto','Helvetica Neue',Helvetica,Arial,sans-serif;
+    color: #616161;
+    width: 100%;
+    top: 0;
+    left: 0; }
+    html body .manual-height {
+      padding-left: 0; }
+    html body h1 {
+      margin: 0; }
+    html body .header-container {
+      z-index: 10; }
+      html body .header-container .main-header {
+        top: 0;
+        width: 100%;
+        line-height: 5.4em;
+        padding: 0 1.68em;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        background-color: #fff;
+        overflow: hidden;
+        -webkit-box-shadow: 0px 9px 10px -4px rgba(0, 0, 0, 0.2);
+        -moz-box-shadow: 0px 9px 10px -4px rgba(0, 0, 0, 0.2);
+        box-shadow: 0px 9px 10px -4px rgba(0, 0, 0, 0.2);
+        z-index: 10;
+        text-align: left;
+        -moz-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        -webkit-transform: translateZ(0);
+        transform: translateZ(0);
+        -moz-transition: opacity .5s ease-out;
+        -o-transition: opacity .5s ease-out;
+        -webkit-transition: opacity .5s ease-out;
+        transition: opacity .5s ease-out; }
+        html body .header-container .main-header h1 {
+          font-weight: 300;
+          display: inline-block;
+          font-size: 1.8em;
+          margin-left: 2%;
+          line-height: inherit; }
+        html body .header-container .main-header .social-container {
+          float: right;
+          display: inline-block;
+          padding-right: 50px;
+          font-size: 22px; }
+          html body .header-container .main-header .social-container a {
+            padding-left: 20px; }
+        html body .header-container .main-header .download-container {
+          float: right; }
+          html body .header-container .main-header .download-container a.download-btn {
+            line-height: inherit;
+            text-transform: uppercase;
+            color: #fff;
+            background-color: #4db6ac;
+            padding: .9em 1em;
+            -moz-border-radius: .2em;
+            -webkit-border-radius: .2em;
+            border-radius: .2em;
+            -moz-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+            -webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+            box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+            -moz-transition: background, box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            -o-transition: background, box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            -webkit-transition: background, box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            transition: background box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+            font-weight: bold;
+            font-size: 16px; }
+            html body .header-container .main-header .download-container a.download-btn:hover, html body .header-container .main-header .download-container a.download-btn:active, html body .header-container .main-header .download-container a.download-btn:visited, html body .header-container .main-header .download-container a.download-btn:focus {
+              text-decoration: none;
+              background-color: #009688;
+              -moz-box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.35);
+              -webkit-box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.35);
+              box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.35); }
+    html body div.content {
+      background-color: #4db6ac;
+      margin-top: 2px; }
+      html body div.content .disclamer {
+        position: absolute;
+        top: 46px;
+        left: 53px;
+        width: 126px;
+        font-size: 20px;
+        text-align: left;
+        color: white;
+        opacity: 0.7; }
+      html body div.content .panel {
+        border: none;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        background-color: inherit; }
+      html body div.content .panel-default {
+        margin: 0;
+        padding-top: 3%;
+        padding-bottom: 3%; }
+        html body div.content .panel-default div.panel-body {
+          text-align: center;
+          padding: 0;
+          overflow: hidden;
+          position: relative; }
+          html body div.content .panel-default div.panel-body .search, html body div.content .panel-default div.panel-body .download, html body div.content .panel-default div.panel-body .save {
+            display: none;
+            color: white;
+            width: 100%;
+            position: absolute; }
+            html body div.content .panel-default div.panel-body .search .text, html body div.content .panel-default div.panel-body .download .text, html body div.content .panel-default div.panel-body .save .text {
+              text-align: left; }
+              html body div.content .panel-default div.panel-body .search .text h1, html body div.content .panel-default div.panel-body .download .text h1, html body div.content .panel-default div.panel-body .save .text h1 {
+                font-size: 4.5em;
+                padding: .2em 0;
+                font-weight: 100;
+                color: #ffffff; }
+              html body div.content .panel-default div.panel-body .search .text h3, html body div.content .panel-default div.panel-body .download .text h3, html body div.content .panel-default div.panel-body .save .text h3 {
+                font-size: 1.5em;
+                font-style: italic;
+                font-weight: 300;
+                line-height: 1.4em; }
+    html body .container {
+      margin-top: 2.5%;
+      margin-bottom: 5%; }
+      html body .container ul li {
+        list-style-type: none; }
+        html body .container ul li .circle {
+          width: 60px;
+          height: 60px;
+          padding: 6px 12px;
+          font-size: 24px;
+          line-height: 1.33;
+          border-radius: 35px;
+          margin: 0 auto; }
+          html body .container ul li .circle.playlist-topic {
+            background-color: #b2dfdb; }
+            html body .container ul li .circle.playlist-topic i {
+              color: #26a69a; }
+          html body .container ul li .circle.search-topic {
+            background-color: #cfd8dc; }
+            html body .container ul li .circle.search-topic i {
+              color: #78909c; }
+          html body .container ul li .circle.save-topic {
+            background-color: #ffcdd2; }
+            html body .container ul li .circle.save-topic i {
+              color: #ef5350; }
+          html body .container ul li .circle.clean-topic {
+            background-color: #c8e6c9; }
+            html body .container ul li .circle.clean-topic i {
+              color: #81c784; }
+          html body .container ul li .circle.free-topic {
+            background-color: #b3e5fc; }
+            html body .container ul li .circle.free-topic i {
+              color: #03a9f4; }
+          html body .container ul li .circle.easy-topic {
+            background-color: #ffe0b2; }
+            html body .container ul li .circle.easy-topic i {
+              color: #ffa726; }
+        html body .container ul li i {
+          margin: 12px 6px; }
+        html body .container ul li h3 {
+          font-size: 18px;
+          line-height: 23px;
+          letter-spacing: 1px;
+          font-weight: 400;
+          text-align: center;
+          padding: 0 0 10px 0;
+          min-height: 26px;
+          text-transform: uppercase; }
+        html body .container ul li p {
+          font-size: 16px;
+          line-height: 24px;
+          font-weight: 300;
+          text-align: center;
+          padding: 5px 0 20px 0; }
+    html body .services-list {
+      margin-top: 0;
+      margin-bottom: 0; }
+      html body .services-list ul {
+        margin-bottom: 0; }
+        html body .services-list ul li {
+          float: left;
+          list-style-type: disc;
+          padding-right: 45px; }
+  html footer {
+    text-align: center;
+    width: 100%;
+    height: 80px; }
+    html footer p {
+      line-height: 80px; }
