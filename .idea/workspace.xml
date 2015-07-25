@@ -2,31 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54c48e17-c08a-400f-a281-6af3727c4748" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/src/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/src/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/src/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/src/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/src/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/src/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/src/css/app.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/src/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/package.json" />
-      <change type="DELETED" beforePath="C:\Repos\YourTubeWeb\landing-page2\css\app.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repos\YourTubeWeb\landing-page2\css\app.scss" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repos\YourTubeWeb\landing-page2\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repos\YourTubeWeb\landing-page2\js\app.js" afterPath="" />
-      <change type="MOVED" beforePath="C:\Repos\YourTubeWeb\landing-page2\css\bootstrap.css" afterPath="$PROJECT_DIR$/landing-page2/src/css/bootstrap.css" />
-      <change type="MOVED" beforePath="C:\Repos\YourTubeWeb\landing-page2\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/landing-page2/src/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="C:\Repos\YourTubeWeb\landing-page2\images\ac-2.png" afterPath="$PROJECT_DIR$/landing-page2/src/images/ac-2.png" />
-      <change type="MOVED" beforePath="C:\Repos\YourTubeWeb\landing-page2\images\ac.png" afterPath="$PROJECT_DIR$/landing-page2/src/images/ac.png" />
-      <change type="MOVED" beforePath="C:\Repos\YourTubeWeb\landing-page2\images\downloads.png" afterPath="$PROJECT_DIR$/landing-page2/src/images/downloads.png" />
-      <change type="MOVED" beforePath="C:\Repos\YourTubeWeb\landing-page2\images\single.png" afterPath="$PROJECT_DIR$/landing-page2/src/images/single.png" />
-      <change type="MOVED" beforePath="C:\Repos\YourTubeWeb\landing-page2\js\bootstrap.js" afterPath="$PROJECT_DIR$/landing-page2/src/js/bootstrap.js" />
-      <change type="MOVED" beforePath="C:\Repos\YourTubeWeb\landing-page2\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/landing-page2/src/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="C:\Repos\YourTubeWeb\landing-page2\js\jquery.js" afterPath="$PROJECT_DIR$/landing-page2/src/js/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/YourTubeWeb.iml" afterPath="$PROJECT_DIR$/.idea/YourTubeWeb.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/src/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landing-page2/src/sitemap.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page2/src/images/ac-2.png" afterPath="$PROJECT_DIR$/landing-page2/src/images/ac-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page2/src/images/ac.png" afterPath="$PROJECT_DIR$/landing-page2/src/images/ac.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page2/src/images/downloads.png" afterPath="$PROJECT_DIR$/landing-page2/src/images/downloads.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page2/src/images/single.png" afterPath="$PROJECT_DIR$/landing-page2/src/images/single.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page2/src/css/app.css" afterPath="$PROJECT_DIR$/landing-page2/src/css/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page2/src/css/app.scss" afterPath="$PROJECT_DIR$/landing-page2/src/css/app.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page2/src/index.html" afterPath="$PROJECT_DIR$/landing-page2/src/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="YourTubeWeb.iws" />
@@ -51,8 +36,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/landing-page2/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7495591">
-              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.84656084">
+              <caret line="78" column="23" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
               <folding>
                 <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -84,6 +69,10 @@
         <option value="$PROJECT_DIR$/landing-page2/js/app.js" />
         <option value="$PROJECT_DIR$/landing-page2/package.json" />
         <option value="$PROJECT_DIR$/landing-page2/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/landing-page2/build/src/index.html" />
+        <option value="$PROJECT_DIR$/landing-page2/src/sitemap.xml" />
+        <option value="$PROJECT_DIR$/landing-page2/src/robots.txt" />
+        <option value="$PROJECT_DIR$/landing-page2/src/css/app.scss" />
         <option value="$PROJECT_DIR$/landing-page2/src/index.html" />
       </list>
     </option>
@@ -190,6 +179,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Repos\YourTubeWeb\landing-page2\src" />
       <recent name="C:\Repos\YourTubeWeb\landing-page2\src\bower_components" />
       <recent name="C:\Repos\YourTubeWeb\landing-page2" />
       <recent name="C:\Repos\YourTubeWeb\landing-page\images" />
@@ -203,6 +193,9 @@
       <method />
     </configuration>
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/YourTubeWeb/landing-page/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/YourTubeWeb/landing-page2/src/index.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -243,14 +236,16 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
     </list>
     <recent_temporary>
-      <list size="2">
+      <list size="3">
         <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +290,19 @@
       <option name="project" value="LOCAL" />
       <updated>1436440105220</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Design changes + GruntJS Flow">
+      <created>1437774610538</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1437774610538</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Design changes + GruntJS Flow">
+      <created>1437774653732</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1437774653732</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -304,21 +311,21 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16754478" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3351178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3137045" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -337,7 +344,8 @@
     <MESSAGE value="landing page first commit" />
     <MESSAGE value="images added, header removed" />
     <MESSAGE value="landing page changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="landing page changes" />
+    <MESSAGE value="Design changes + GruntJS Flow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Design changes + GruntJS Flow" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -546,20 +554,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landing-page2/src/css/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.923077">
-          <caret line="185" column="7" selection-start-line="185" selection-start-column="7" selection-end-line="185" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/landing-page2/src/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -596,14 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landing-page2/build/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/landing-page2/src/bower_components/roboto-fontface/css/roboto-fontface.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17056856">
@@ -620,10 +612,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/landing-page2/build/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40837696">
+          <caret line="161" column="52" selection-start-line="161" selection-start-column="52" selection-end-line="161" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing-page2/src/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing-page2/src/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19866444">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing-page2/src/css/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3697183">
+          <caret line="281" column="23" selection-start-line="281" selection-start-column="23" selection-end-line="281" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/landing-page2/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7495591">
-          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.84656084">
+          <caret line="78" column="23" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
           <folding>
             <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />

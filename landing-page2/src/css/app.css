@@ -55,13 +55,6 @@ html {
           font-size: 1.8em;
           margin-left: 2%;
           line-height: inherit; }
-        html body .header-container .main-header .social-container {
-          float: right;
-          display: inline-block;
-          padding-right: 50px;
-          font-size: 22px; }
-          html body .header-container .main-header .social-container a {
-            padding-left: 20px; }
         html body .header-container .main-header .download-container {
           float: right; }
           html body .header-container .main-header .download-container a.download-btn {
@@ -198,5 +191,11 @@ html {
     text-align: center;
     width: 100%;
     height: 80px; }
+    html footer .social-container {
+      font-size: 22px; }
+      html footer .social-container a {
+        padding-left: 20px; }
     html footer p {
       line-height: 80px; }
+  html .center-align {
+    text-align: center; }
