@@ -4,6 +4,9 @@
 
 $(document).ready(function() {
 
+    var showTime = 6 * 1000;
+    var delayUntillNewLoop = 50;
+
     function startIntervals() {
         $('.search').animate({opacity:"show"}, 750);
         $('.search').find('.text').animate({'left':'20px'}, 750);
@@ -21,7 +24,7 @@ $(document).ready(function() {
 
             $('.download').animate({opacity:"show"}, 750);
             $('.download').find('.text').animate({'left':'20px'}, 750);
-        }, 6 * 1000);
+        }, showTime);
 
         // Hide search and downloads - show save
         setTimeout(function() {
@@ -34,20 +37,20 @@ $(document).ready(function() {
 
             $('.save').animate({opacity:"show"}, 750);
             $('.save').find('.text').animate({'left':'20px'}, 750);
-        }, 12 * 1000);
+        }, showTime * 2);
 
         setTimeout(function() {
             $('.save').animate({opacity:"hide"}, 750, function() {
                 $('.save .text').css('left', '0');
             });
-        }, 18 * 1000);
+        }, showTime * 3);
     }
 
     startIntervals();
 
     setInterval(function(){
         startIntervals()
-    }, 18 * 1000);
+    }, showTime * 3 + delayUntillNewLoop);
 
 
     // Set height in pixels on load \ resize
