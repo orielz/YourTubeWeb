@@ -37,9 +37,11 @@ html {
     padding: 0;
     height: 100%;
 
-    h1 { margin: 0; }
+    h1 {
+      margin: 0;
+    }
 
-    font-family: 'Roboto','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #616161;
     width: 100%;
     top: 0;
@@ -58,9 +60,9 @@ html {
         box-sizing: border-box;
         background-color: #fff;
         overflow: hidden;
-        -webkit-box-shadow: 0px 9px 10px -4px rgba(0,0,0,0.2);
-        -moz-box-shadow: 0px 9px 10px -4px rgba(0,0,0,0.2);
-        box-shadow: 0px 9px 10px -4px rgba(0,0,0,0.2);
+        -webkit-box-shadow: 0px 9px 10px -4px rgba(0, 0, 0, 0.2);
+        -moz-box-shadow: 0px 9px 10px -4px rgba(0, 0, 0, 0.2);
+        box-shadow: 0px 9px 10px -4px rgba(0, 0, 0, 0.2);
         z-index: 10;
         text-align: left;
         -moz-transform: translateZ(0);
@@ -79,8 +81,6 @@ html {
           margin-left: 2%;
           line-height: inherit;
         }
-
-
 
         .download-container {
           float: right;
@@ -135,49 +135,49 @@ html {
         box-shadow: none;
         background-color: inherit;
       }
-    .panel-default {
-      margin: 0;
-      padding-top: 3%;
-      padding-bottom: 3%;
-      div.panel-body {
+      .panel-default {
+        margin: 0;
+        padding-top: 3%;
+        padding-bottom: 3%;
+        div.panel-body {
 
-        text-align: center;
-        padding: 0;
-        overflow: hidden;
-        position: relative;
+          text-align: center;
+          padding: 0;
+          overflow: hidden;
+          position: relative;
 
-        .search, .download, .save {
-          display: none;
-          color: white;
-          width: 100%;
-          position: absolute;
-          .text {
-            //&.col-xs-3 {font-size: 8px !important; }
-            //&.col-sm-3 { font-size: 10px !important; }
-            //&.col-md-3 { font-size: 12px !important; }
-            //&.col-lg-3 { font-size: 14px !important; }
-            color: #222;
-            h1 {
-              font-size: 4.5em;
-              padding: .2em 0;
-              font-weight: 100;
+          .search, .download, .save {
+            display: none;
+            color: white;
+            width: 100%;
+            position: absolute;
+            .text {
+              //&.col-xs-3 {font-size: 8px !important; }
+              //&.col-sm-3 { font-size: 10px !important; }
+              //&.col-md-3 { font-size: 12px !important; }
+              //&.col-lg-3 { font-size: 14px !important; }
+              color: #222;
+              h1 {
+                font-size: 4.5em;
+                padding: .2em 0;
+                font-weight: 100;
+              }
+              h3 {
+                font-size: 1.75em;
+                font-style: italic;
+                font-weight: 300;
+                line-height: 1.4em;
+              }
+              text-align: left;
             }
-            h3 {
-              font-size: 1.75em;
-              font-style: italic;
-              font-weight: 300;
-              line-height: 1.4em;
+            img {
+              transform: skewX(0.99deg);
             }
-            text-align: left;
-          }
-          img {
-            transform:skewX(0.99deg);
+
           }
 
         }
-
       }
-    }
     }
 
     .container {
@@ -197,42 +197,53 @@ html {
             border-radius: 35px;
             margin: 0 auto;
 
-
             &.playlist-topic {
               background-color: #b2dfdb;
-              i { color: #26a69a; }
+              i {
+                color: #26a69a;
+              }
             }
 
             &.search-topic {
               background-color: #cfd8dc;
-              i { color: #78909c; }
+              i {
+                color: #78909c;
+              }
             }
 
             &.save-topic {
               background-color: #ffcdd2;
-              i { color: #ef5350; }
+              i {
+                color: #ef5350;
+              }
             }
 
             &.clean-topic {
               background-color: #c8e6c9;
-              i { color: #81c784; }
+              i {
+                color: #81c784;
+              }
             }
 
             &.free-topic {
               background-color: #b3e5fc;
-              i { color: #03a9f4; }
+              i {
+                color: #03a9f4;
+              }
             }
 
             &.easy-topic {
               background-color: #ffe0b2;
-              i { color: #ffa726; }
+              i {
+                color: #ffa726;
+              }
             }
-
-
 
           }
 
-          i { margin: 12px 6px; }
+          i {
+            margin: 12px 6px;
+          }
 
           h3 {
             font-size: 18px;
@@ -245,7 +256,7 @@ html {
             text-transform: uppercase;
           }
 
-          p{
+          p {
             font-size: 16px;
             line-height: 24px;
             font-weight: 300;
@@ -275,22 +286,43 @@ html {
 
   }
 
+  .container-fluid {
+
+    &.blue {
+      background-color: #2b3d52;
+    }
+
   footer {
     text-align: center;
     width: 100%;
     height: 80px;
+    padding-top: 30px;
+    padding-bottom: 80px;
 
     .social-container {
       font-size: 22px;
 
-      a { padding-left: 20px; }
+      a {
+        &:hover {
+          text-decoration: none;
+        }
+        padding-left: 20px;
+        color: white;
+      }
 
+    }
+
+    hr {
+      border-top: solid 1px rgba(255,255,255,0.3);
     }
 
     p {
-      line-height: 80px;
+      text-align: left;
+      color: #C6C4C4;
     }
   }
+
+}
 
   .center-align { text-align: center; }
 

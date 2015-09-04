@@ -15,7 +15,7 @@ html {
     margin: 0;
     padding: 0;
     height: 100%;
-    font-family: 'Roboto','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #616161;
     width: 100%;
     top: 0;
@@ -189,15 +189,25 @@ html {
           float: left;
           list-style-type: disc;
           padding-right: 45px; }
-  html footer {
+  html .container-fluid.blue {
+    background-color: #2b3d52; }
+  html .container-fluid footer {
     text-align: center;
     width: 100%;
-    height: 80px; }
-    html footer .social-container {
+    height: 80px;
+    padding-top: 30px;
+    padding-bottom: 80px; }
+    html .container-fluid footer .social-container {
       font-size: 22px; }
-      html footer .social-container a {
-        padding-left: 20px; }
-    html footer p {
-      line-height: 80px; }
+      html .container-fluid footer .social-container a {
+        padding-left: 20px;
+        color: white; }
+        html .container-fluid footer .social-container a:hover {
+          text-decoration: none; }
+    html .container-fluid footer hr {
+      border-top: solid 1px rgba(255, 255, 255, 0.3); }
+    html .container-fluid footer p {
+      text-align: left;
+      color: #C6C4C4; }
   html .center-align {
     text-align: center; }
