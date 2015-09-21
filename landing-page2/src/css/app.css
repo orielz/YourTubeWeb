@@ -213,9 +213,18 @@ html {
     html .container-fluid footer p {
       text-align: left;
       color: #C6C4C4; }
-  html .mobile .modal-body .modal-title {
-    margin-bottom: 8px; }
-    html .mobile .modal-body .modal-title .smaller-title {
+  html .mobile .modal-header {
+    text-align: center; }
+    html .mobile .modal-header img {
+      margin-top: 10px;
+      margin-left: auto;
+      margin-right: auto;
+      display: block; }
+  html .mobile .modal-body {
+    text-align: center; }
+    html .mobile .modal-body .smaller-title {
       font-size: 0.7em; }
+  html .mobile .modal-footer {
+    text-align: left; }
   html .center-align {
     text-align: center; }

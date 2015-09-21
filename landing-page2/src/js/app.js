@@ -2,14 +2,14 @@
  * Created by Oriel.Zaken on 7/9/2015.
  */
 
-$(document).ready(function() {
+$(window).load(function() {
 
     if (jQuery.browser.mobile) {
 
         $('#myModal').modal('show');
 
         $('#myModal').on('shown.bs.modal', function () {
-            $('iframe').css('width', ($('.modal-body').width() - 20) + "px");
+            $('iframe').css('width', $('.modal-body').width() + "px");
         });
 
         $('a.mobile-button').show();
@@ -70,8 +70,9 @@ $(document).ready(function() {
     // Set height in pixels on load \ resize
     function setHeight() {
         $('.panel-body').css('height', 'auto');
-        var currentheight = $('.search').height() + "px";
+        var currentheight = $('.save').height() + "px";
         $('.panel-body').css('height', currentheight);
+
     };
 
     $(window).resize(function() { setHeight(); });

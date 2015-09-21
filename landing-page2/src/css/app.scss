@@ -332,20 +332,25 @@ html {
 }
 
   .mobile {
+    .modal-header {
+      text-align: center;
 
-    .modal-body {
-
-      .modal-title {
-
-        margin-bottom: 8px;
-
-        .smaller-title {
-          font-size: 0.7em;
-        }
-
+      img {
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
       }
-      //padding: 0;
-      //padding-top: 15px;
+    }
+    .modal-body {
+      text-align: center;
+      .smaller-title {
+        font-size: 0.7em;
+      }
+    }
+    .modal-footer {
+      text-align: left;
+
     }
   }
 
