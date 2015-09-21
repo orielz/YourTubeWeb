@@ -33,6 +33,11 @@ html {
       padding-left: 0;
     }
 
+    .no-sides-padding {
+      padding-right: 0;
+      padding-left: 0;
+    }
+
     margin: 0;
     padding: 0;
     height: 100%;
@@ -80,11 +85,14 @@ html {
           font-size: 1.8em;
           margin-left: 2%;
           line-height: inherit;
+          padding-left: 1em;
         }
 
         .download-container {
+
           float: right;
           a.download-btn {
+            display: none;
             line-height: inherit;
             text-transform: uppercase;
             color: #fff;
@@ -101,7 +109,7 @@ html {
             -webkit-transition: background, box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
             transition: background box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
             font-weight: bold;
-            font-size: 16px;
+            font-size: 1.3em;
             &:hover, &:active, &:visited, &:focus {
               text-decoration: none;
               background-color: #009688;
@@ -295,9 +303,8 @@ html {
   footer {
     text-align: center;
     width: 100%;
-    height: 80px;
     padding-top: 30px;
-    padding-bottom: 80px;
+    padding-bottom: 30px;
 
     .social-container {
       font-size: 22px;
@@ -323,6 +330,24 @@ html {
   }
 
 }
+
+  .mobile {
+
+    .modal-body {
+
+      .modal-title {
+
+        margin-bottom: 8px;
+
+        .smaller-title {
+          font-size: 0.7em;
+        }
+
+      }
+      //padding: 0;
+      //padding-top: 15px;
+    }
+  }
 
   .center-align { text-align: center; }
 

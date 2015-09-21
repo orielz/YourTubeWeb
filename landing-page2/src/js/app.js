@@ -4,6 +4,20 @@
 
 $(document).ready(function() {
 
+    if (jQuery.browser.mobile) {
+
+        $('#myModal').modal('show');
+
+        $('#myModal').on('shown.bs.modal', function () {
+            $('iframe').css('width', ($('.modal-body').width() - 20) + "px");
+        });
+
+        $('a.mobile-button').show();
+    }
+    else {
+        $('a.windows-button').show();
+    }
+
     var showTime = 6 * 1000;
     var delayUntillNewLoop = 50;
 
