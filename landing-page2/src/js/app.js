@@ -16,6 +16,7 @@ $(window).load(function() {
     }
     else {
         $('a.windows-button').show();
+        $('.download-container table').find('br').remove();
     }
 
     var showTime = 6 * 1000;

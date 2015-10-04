@@ -90,6 +90,11 @@ html {
 
         .download-container {
 
+          table {
+            display: inline-block;
+            height: 40px;
+          }
+
           float: right;
           a.download-btn {
             display: none;

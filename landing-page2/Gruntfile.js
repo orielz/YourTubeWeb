@@ -152,6 +152,18 @@ module.exports = function (grunt) {
                 dest: '/public_html/assets/dev/js',
                 exclusions: ['localBundle.js']
             }
+        },
+
+        htmlmin: {
+            dist: {
+                options: {
+                    removeComments: true,
+                    collapseWhitespace: true
+                },
+                files: {
+                    'build/src/index.html': 'build/src/index.html'
+                }
+            }
         }
 
     });
@@ -178,10 +190,10 @@ module.exports = function (grunt) {
         'copy:app2temp',
         'usemin',
         'copy:temp2build',
-        'copy:app2build'
+        'copy:app2build',
         //'copy:build2staged',
         ////'replace:index'
-        //'htmlmin'
+        'htmlmin'
     ]);
 
     grunt.registerTask('install', [
