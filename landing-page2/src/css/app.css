@@ -61,6 +61,9 @@ html {
           padding-left: 1em; }
         html body .header-container .main-header .download-container {
           float: right; }
+          html body .header-container .main-header .download-container table {
+            display: inline-block;
+            height: 40px; }
           html body .header-container .main-header .download-container a.download-btn {
             display: none;
             line-height: inherit;
