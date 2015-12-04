@@ -2,10 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54c48e17-c08a-400f-a281-6af3727c4748" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page2/Gruntfile.js" afterPath="$PROJECT_DIR$/landing-page2/Gruntfile.js" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\404.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\about.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\bin\contact_me.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\blog-home-1.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\blog-home-2.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\blog-post.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\contact.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\css\app.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\css\app.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\faq.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\css\font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\css\font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\fonts\FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\fonts\fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\fonts\fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\fonts\fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\fonts\fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\core.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\icons.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\larger.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\list.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\path.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\spinning.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\less\variables.less" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\_spinning.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\font-awesome\scss\font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\fonts\glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\full-width.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\images\ac-2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\images\ac.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\images\downloads.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\images\single.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\js\contact_me.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\js\jqBootstrapValidation.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\portfolio-1-col.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\portfolio-2-col.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\portfolio-3-col.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\portfolio-4-col.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\portfolio-item.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\pricing.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\services.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dev\YourTubeWeb\landing-page\sidebar.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page2/src/js/app.js" afterPath="$PROJECT_DIR$/landing-page2/src/js/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page2/src/css/app.scss" afterPath="$PROJECT_DIR$/landing-page2/src/css/app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page2/src/index.html" afterPath="$PROJECT_DIR$/landing-page2/src/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="YourTubeWeb.iws" />
@@ -30,7 +98,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/landing-page2/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
+            <state vertical-scroll-proportion="0.0">
               <caret line="46" column="54" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -39,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/landing-page2/src/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -59,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/landing-page2/src/css/app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5538194">
-              <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -98,8 +166,8 @@
         <option value="$PROJECT_DIR$/landing-page2/Gruntfile.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/landing-page2/src/index.html" />
-        <option value="$PROJECT_DIR$/landing-page2/src/js/app.js" />
         <option value="$PROJECT_DIR$/landing-page2/src/css/app.scss" />
+        <option value="$PROJECT_DIR$/landing-page2/src/js/app.js" />
       </list>
     </option>
   </component>
@@ -173,7 +241,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,63 +259,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YourTubeWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YourTubeWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="landing-page2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YourTubeWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YourTubeWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="landing-page2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YourTubeWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YourTubeWeb" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="landing-page2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -257,7 +271,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../YourTube" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="276" />
@@ -436,31 +450,37 @@
       <option name="project" value="LOCAL" />
       <updated>1443939607902</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Norton seal added">
+      <created>1443950981859</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1443950981859</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1060" extended-state="0" />
+    <frame x="-4" y="-4" width="1928" height="1060" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16745655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.50605583" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31144068" sideWeight="0.51237494" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.49394417" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838982" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33262712" sideWeight="0.49394417" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3125" sideWeight="0.4918378" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31144068" sideWeight="0.48762506" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32869378" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838982" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32834226" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -493,9 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -746,34 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landing-page/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/landing-page/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/landing-page/css/app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36756757">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/landing-page/fonts/glyphicons-halflings-regular.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50511944">
-          <caret line="149" column="124" selection-start-line="149" selection-start-column="124" selection-end-line="149" selection-end-column="124" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/landing-page2/src/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -823,18 +812,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landing-page/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.117647">
-          <caret line="183" column="26" selection-start-line="183" selection-start-column="26" selection-end-line="183" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11371238">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -842,9 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34170854">
           <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#p#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -852,25 +830,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="164" column="17" selection-start-line="164" selection-start-column="17" selection-end-line="164" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/landing-page2/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
+        <state vertical-scroll-proportion="0.0">
           <caret line="46" column="54" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#a#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/landing-page2/src/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -884,8 +853,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/landing-page2/src/css/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5538194">
-          <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing-page2/src/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding />
         </state>
       </provider>

@@ -13,6 +13,7 @@ $(window).load(function() {
         });
 
         $('a.mobile-button').show();
+        $('.download-container table').hide();
     }
     else {
         $('a.windows-button').show();
