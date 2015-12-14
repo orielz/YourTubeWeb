@@ -1,0 +1,8 @@
+﻿User-agent: *
+Disallow: /bower_components/
+Disallow: /fonts/
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+
+Sitemap: http://yourtubedownloader.com/sitemap.xml
