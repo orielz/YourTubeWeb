@@ -18,7 +18,7 @@ function adjustBestAppearance() {
     var logoHeight = $('img.logo').parent().outerHeight();
 
     var fullBgHeight = viewPortHeight - logoHeight;
-    var imageHeight = fullBgHeight - 200;
+    var imageHeight = fullBgHeight - 250;
 
     $('div.full-bg').css({
         'min-height': viewPortHeight - logoHeight //,

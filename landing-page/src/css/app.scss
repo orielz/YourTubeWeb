@@ -64,34 +64,53 @@ body {
         //width: 350px;
 
         .download-btn {
-          height: 70px;
-          //width: 370px;
-          //background: url("../images/download-btn.png") no-repeat;
-          //background-size: 370px;
+
           cursor: pointer;
           z-index: 1;
           position: relative;
+          display: inline-block;
 
           /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,7db9e8+100 */
           background: #464646; /* Old browsers */
-          background: -moz-linear-gradient(top,  #464646 0%, #111111 100%); /* FF3.6-15 */
-          background: -webkit-linear-gradient(top,  #464646 0%,#111111 100%); /* Chrome10-25,Safari5.1-6 */
-          background: linear-gradient(to bottom,  #464646 0%,#111111 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-          filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#464646', endColorstr='#111111',GradientType=0 ); /* IE6-9 */
+          background: -moz-linear-gradient(top, #464646 0%, #111111 100%); /* FF3.6-15 */
+          background: -webkit-linear-gradient(top, #464646 0%, #111111 100%); /* Chrome10-25,Safari5.1-6 */
+          background: linear-gradient(to bottom, #464646 0%, #111111 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#464646', endColorstr='#111111', GradientType=0); /* IE6-9 */
 
           border: 3px solid white;
 
           text-transform: uppercase;
           color: #fff;
 
-          padding: .6em 1em;
+          padding: .6rem;
           border-radius: 10px;
           font-weight: bold;
           font-size: 1.6em;
 
-          -webkit-box-shadow: -2px 6px 22px -3px rgba(255,255,255,1);
-          -moz-box-shadow: -2px 6px 22px -3px rgba(255,255,255,1);
-          box-shadow: -2px 6px 22px -3px rgba(255,255,255,1);
+          -webkit-box-shadow: -2px 6px 22px -3px rgba(255, 255, 255, 1);
+          -moz-box-shadow: -2px 6px 22px -3px rgba(255, 255, 255, 1);
+          box-shadow: -2px 6px 22px -3px rgba(255, 255, 255, 1);
+
+          min-width: 214px;
+
+          .text {
+            width: 80%;
+            float: left;
+
+            h4 {
+              margin-bottom: 0;
+            }
+
+            div {
+              font-size: .9rem;
+            }
+          }
+
+          .icon {
+            float: left;
+            width: 20%;
+          }
+
 
         }
 
@@ -176,7 +195,6 @@ body {
       .text-container {
 
         .download-btn2 {
-          height: 80px;
           //width: 479px;
           //background: url("../images/pc-download.png") no-repeat;
           margin: 5% auto;
