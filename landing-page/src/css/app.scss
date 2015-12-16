@@ -16,16 +16,6 @@ body {
     text-align: center;
   }
 
-  i.fa-arrow-circle-o-down {
-    font-size: 4rem;
-    color: #FFFFFF;
-    position: absolute;
-    right: 50%;
-    bottom: 2rem;
-    opacity: 0.9;
-    cursor: pointer;
-  }
-
   .full-bg {
     padding: 0;
     margin: 0;
@@ -33,17 +23,11 @@ body {
     background-size: cover;
 
     .row {
-      //max-width: 1200px;
-      //width: 80%;
-      margin: auto;
-      //padding: 0px;
 
+      margin: auto;
 
       .text-container {
 
-        //width: 322px;
-        //float: right;
-        //margin-right: 9%;
         color: white;
 
         .title {
@@ -58,10 +42,6 @@ body {
       }
 
       .button-container {
-        //float: left;
-        //margin-left: 10%;
-        //margin-top: -5%;
-        //width: 350px;
 
         .download-btn {
 
@@ -110,12 +90,16 @@ body {
             float: left;
             width: 20%;
           }
-
-
         }
 
       }
 
+      i.fa.fa-arrow-circle-down {
+        color: #EFECEC;
+        font-size: 2rem;
+        opacity: 0.7;
+        cursor: pointer;
+      }
     }
 
   }
